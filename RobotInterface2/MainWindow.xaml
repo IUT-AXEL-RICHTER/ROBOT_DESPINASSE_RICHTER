@@ -1,0 +1,33 @@
+﻿<Window x:Class="RobotInterface2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobotInterface2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox x:Name="Reception" Header="Reception" Margin="7,26,7.333,29.667" Background="#FFDDDDDD" BorderBrush="Black" Grid.Column="3" RenderTransformOrigin="0.512,0.491" Grid.RowSpan="3" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+            <TextBox x:Name="TextBoxReception" Margin="0" TextWrapping="NoWrap" IsReadOnly="True" IsReadOnlyCaretVisible="True"/>
+        </GroupBox>
+        <GroupBox x:Name="Emission" Header="Emission" Background="#FFDDDDDD" BorderBrush="Black" RenderTransformOrigin="0.446,0.367" Grid.Column="1" Grid.Row="1" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" KeyUp="Emission_KeyUp">
+            <TextBox x:Name="TextBoxEmission" Margin="0,0,0,0.333" TextWrapping="Wrap" AllowDrop="False" Opacity="0.995" IsReadOnlyCaretVisible="True" AcceptsReturn="True" Text="Bonjour" TextChanged="TextBoxEmission_TextChanged"/>
+        </GroupBox>
+        <Button x:Name="ButtonEnvoyer" Content="Envoyer" Grid.Column="1" HorizontalAlignment="Left" Margin="132,4.333,0,0" Grid.Row="3" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Center" MaxWidth="100" Click="ButtonEnvoyer_Click"/>
+
+    </Grid>
+</Window>

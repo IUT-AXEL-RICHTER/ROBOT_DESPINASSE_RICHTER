@@ -1,0 +1,15 @@
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\bin\Debug\RobotInterface2.exe.config
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\bin\Debug\RobotInterface2.exe
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\bin\Debug\RobotInterface2.pdb
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.csprojAssemblyReference.cache
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\MainWindow.g.cs
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\App.g.cs
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2_MarkupCompile.cache
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2_MarkupCompile.lref
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\MainWindow.baml
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.g.resources
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.Properties.Resources.resources
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.csproj.GenerateResource.cache
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.csproj.CoreCompileInputs.cache
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.exe
+C:\Users\axelr\OneDrive\Bureau\CORONA\E&R\RobotInterface2\obj\Debug\RobotInterface2.pdb
