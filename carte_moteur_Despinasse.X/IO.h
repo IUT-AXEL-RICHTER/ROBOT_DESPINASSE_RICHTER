@@ -6,6 +6,10 @@
 #define LED_BLEUE _LATG7
 #define LED_BLANCHE _LATG6
 
+// Affectation des pins UART1
+#define UART1_TX _LATB4
+#define UART1_RX _LATA8
+
 //Définitions des pins pour les hacheurs moteur gauche
 #define MOTEUR1_IN1 _LATB14
 #define MOTEUR1_IN2 _LATB15

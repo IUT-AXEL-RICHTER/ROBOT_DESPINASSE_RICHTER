@@ -25,5 +25,7 @@ void InitIO()
     _TRISG9 = 1;    //capteur
     _TRISB1 = 1;    //capteur
     _TRISE15 = 1;   //capteur*/
+    _U1RXR = A8 ; //Remappe l a RP . . . sur l ?é ent r e Rx1
+    _RPB4R = 0b00001 ; //Remappe l a s o r t i e Tx1 ve r s RP . . .
 }
 
