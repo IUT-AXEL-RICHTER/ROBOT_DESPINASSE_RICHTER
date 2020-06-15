@@ -24,3 +24,5 @@ IEC0bits.U1RXIE = 0; // Disable UART Rx interrupt
 U1MODEbits.UARTEN = 1; // Enable UART
 U1STAbits.UTXEN = 1; // Enable UART Tx
 }
+
+//configuration de l'UART pour le démarrage
