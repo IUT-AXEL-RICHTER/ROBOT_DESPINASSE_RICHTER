@@ -7,8 +7,7 @@
 #define LED_BLANCHE _LATG6
 
 // Affectation des pins UART1
-#define UART1_TX _LATB4
-#define UART1_RX _LATA8
+// Comment on affecte l'UART ici ?
 
 //Définitions des pins pour les hacheurs moteur gauche
 #define MOTEUR1_IN1 _LATB14
